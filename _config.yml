@@ -3,3 +3,4 @@ theme: jekyll-theme-cayman
 baseurl: /ayyyeee.github.io
 
 markdown: kramdown
+mathjax: true
