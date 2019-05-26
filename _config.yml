@@ -5,3 +5,4 @@ baseurl: /ayyyeee.github.io
 markdown: kramdown 
 kramdown:
   input: GFM
+  mathjax: true
