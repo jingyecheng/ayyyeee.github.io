@@ -3,10 +3,8 @@ layout: default
 title: 你好，世界
 ---
 
-<h2>{{ page.title }}</h2>
 
-<p>公式</p>
 
-<p>$${n^{2}}$$</p>
+* \\(A = 01 01 01 01 01 01 01 \\) 
+* \\(B = 00 10 01 00 10 11 11 \\)
 
-<p>{{ page.date | date_to_string }}</p>
