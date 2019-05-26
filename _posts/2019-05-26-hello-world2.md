@@ -7,6 +7,6 @@ title: 你好，世界
 
 <p>公式</p>
 
-<p>$$ {n^{2}} $$</p>
+<p>$${n^{2}}$$</p>
 
 <p>{{ page.date | date_to_string }}</p>
