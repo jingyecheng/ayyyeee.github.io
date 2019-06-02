@@ -4,8 +4,6 @@ title: 关于
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/logo.png"class="profile">
-
-# 关于我
+<img src="{{ site.baseurl }}/assets/logo.png" title="watermelon" class="profile">
 
 
