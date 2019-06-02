@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "博文"
+title: "目录"
 permalink: /posts/
 ---
 
