@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/logo.png" title="At KAIST" class="profile">
+<img src="{{ site.baseurl }}/assets/logo.png"class="profile">
 
 # 关于我
 
