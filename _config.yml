@@ -30,6 +30,11 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+
 paginate: 10
 paginate_path: "/page:num/"
 inter_post_navigation: false
