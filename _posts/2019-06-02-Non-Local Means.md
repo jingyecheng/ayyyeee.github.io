@@ -25,8 +25,8 @@ $$I(x) = \sum_yI(y)f(p(x)-p(y))$$
 * 对搜索窗内每一点\\(y\\)
     + 计算patch\\(p(y)\\)
     + 计算\\(p(x)\\)和\\(p(y)\\)的相似性，使用高斯距离平方和度量patch间相似性，
-    + \\(f(p(x)-p(y))=GSSD(p(x)-p(y))=e^{-1\times{SSD(p(x)-p(y))\over\sigma^2}}\\)
-    ，其中\\(SSD(p(x)-p(y))=sum_{i,j}(p_{i,j}(x)-p_{i,j}(y))^2\\)
+    + \\(f(p(x)-p(y)) = GSSD(p(x)-p(y))=e^{-1\times{SSD(p(x)-p(y))\over\sigma^2}}\\)
+    ，其中\\(SSD(p(x)-p(y)) = \sum_{i,j}(p_{i,j}(x)-p_{i,j}(y))^2\\)
     + 求加权和
 
 ## 改进
