@@ -15,8 +15,8 @@ tags: 图像去噪
 <img src="{{site.baseurl}}/assets/nlm/redundent.png" height="360">
 
 ## 方法
-$$I(x) = sum_yI(y)f(p(x)-p(y))$$
-* \\(I(x)\\)是图像\\(I\\)x处的像素值
+$$I(x) = \sum_yI(y)f(p(x)-p(y))$$
+* \\(I(x)\\)是图像\\(x\\)处的像素值
 * \\(p(x)\\)是以x为中心的patch，这里假设patch是\\(s \times s\\)方块
 
 ### 计算步骤
